@@ -1,3 +1,5 @@
+#VARYING a0 - a1
+
 import matplotlib.pyplot as plt #for scatter plot
 import numpy as np 
 
