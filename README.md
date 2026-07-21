@@ -122,20 +122,6 @@ varying_a0_a1.py
 
 ---
 
-# Requirements
-
-- Python 3.x
-- NumPy
-- Matplotlib
-
-Install the required libraries using:
-
-```bash
-pip install numpy matplotlib
-```
-
----
-
 # Learning Outcomes
 
 This project demonstrates:
