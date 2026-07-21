@@ -6,9 +6,9 @@ $$\hat{y} = a_0 + 0.7x$$
 
 By fixing the slope at $a_1 = 0.7$ and sweeping $a_0$ from $-0.9$ to $1.7$, the script calculates the resulting SSE for each step and plots the resulting parabolic error curve.
 
-<center>
-  <img src="output.png" alt="Scatter Plot Output">
-</center>
+<p align="center">
+  <img src="output.png" alt="Scatter Plot Output" width="600">
+</p>
 
 ---
 
