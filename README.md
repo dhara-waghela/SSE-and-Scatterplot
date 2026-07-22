@@ -111,11 +111,11 @@ varying_a0_a1.py
 
 ```text
 .
-├── fixed_a0.py
-├── fixed_a1.py
+├── vary_a0.py
+├── vary_a1.py
 ├── varying_a0_a1.py
-├── fix_a0.png
-├── fix_a1.png
+├── vary_a0.png
+├── vary_a1.png
 ├── vary_a0-a1.png
 └── README.md
 ```
